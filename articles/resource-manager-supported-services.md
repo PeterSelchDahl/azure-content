@@ -117,7 +117,7 @@ When working with web apps, you cannot move only an App Service plan. To move we
 | Service | Resource Manager Enabled | Portal | Move Resources | REST API | Schema |
 | ------- | ------- | -------------- | -------------- | -------- | ------ |
 | Azure Active Directory | No | No | -  | - | - |
-| Azure Actice Directory B2C | No | No | - | - | - |
+| Azure Actice Directory B2C | No | Yes | - | - | - |
 | Multi-Factor Authentication | No | No | - | - | - |
 
 ## Developer Services 
